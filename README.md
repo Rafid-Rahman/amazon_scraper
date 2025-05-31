@@ -88,6 +88,6 @@ This project is part of my Upwork portfolio, demonstrating my capabilities in:
 ## 📬 Contact
 For project collaboration, feedback, or hiring:
 -  📧 Email: rafidrahman00@gmail.com
--  💼 Upwork: [Your Upwork Profile](https://www.upwork.com/freelancers/~01d564beb96daefba0?mp_source=share)
+-  💼 Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01d564beb96daefba0?mp_source=share)
 
 
