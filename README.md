@@ -31,11 +31,11 @@ This is a Python-based automation project that scrapes detailed product data fro
 
 ## 🛠️ Technologies Used
 
-- Python 3
-- Selenium WebDriver
-- Webdriver Manager
-- Pandas
-- ChromeDriver (Headless)
+- `Python 3`
+- `Selenium WebDriver`
+- `Webdriver Manager`
+- `Pandas`
+- `ChromeDriver (Headless)`
 
 ---
 
